@@ -1,4 +1,4 @@
-# [NOMBRE DEL PROYECTO]
+# [NOMBRE DEL PROYECTO/TAREA]
 
 Fecha: [dd/mm/yyyy]
 
@@ -23,6 +23,7 @@ Participantes:
 1. Leer ..
 2. Calcular .... 
 3. Desplegar ...
+4. Comprobar ... 
 
 
 #### Requisitos no funcionales
